@@ -1,0 +1,16 @@
+/*
+* @Author: mac
+* @Date:   2019-08-02 19:10:32
+* @Last Modified by:   mac
+* @Last Modified time: 2019-08-04 16:02:50
+*/
+.user-info{
+    float: right;
+    margin-top: 10px;
+    margin-right: 100px;
+}
+
+.content{
+	margin-top: 20px;
+	min-height: 427px;
+}
